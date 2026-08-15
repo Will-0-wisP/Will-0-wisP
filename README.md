@@ -116,13 +116,7 @@ Play Style:  Nocturnal (peak power after 22:30)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake game" />
-
-</div>
-
-> A real snake that eats through my contribution graph — auto-regenerated daily by
-> a GitHub Action (workflow included in this bundle, see **Setup** below).
-> It's the closest thing to a *playable* README that GitHub actually allows.
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
 
 <br/>
 
