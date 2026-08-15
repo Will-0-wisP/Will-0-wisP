@@ -51,21 +51,18 @@ Play Style:  Nocturnal (peak power after 22:30)
 
 <div align="center">
 
-**⚔️ Frontend Branch**
-<br/>
-<img src="https://progress-bar.dev/92/?title=React&width=220&color=00F0FF"/>
-<img src="https://progress-bar.dev/85/?title=JavaScript&width=220&color=FFD700"/>
-<img src="https://progress-bar.dev/80/?title=TailwindCSS&width=220&color=39FF88"/>
+### ⚔️ Frontend Branch
+<img src="https://img.shields.io/badge/React-92%25-00F0FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-85%25-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-80%25-39FF88?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-**🛡️ Backend Branch**
-<br/>
-<img src="https://progress-bar.dev/75/?title=Node.js&width=220&color=39FF88"/>
-<img src="https://progress-bar.dev/65/?title=Python&width=220&color=FFD700"/>
+### 🛡️ Backend Branch
+<img src="https://img.shields.io/badge/Node.js-75%25-39FF88?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-65%25-FFD700?style=for-the-badge&logo=python&logoColor=black" />
 
-**🎨 Design Branch**
-<br/>
-<img src="https://progress-bar.dev/90/?title=Figma&width=220&color=FF2E97"/>
-<img src="https://progress-bar.dev/78/?title=UI/UX&width=220&color=B026FF"/>
+### 🎨 Design Branch
+<img src="https://img.shields.io/badge/Figma-90%25-FF2E97?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-78%25-B026FF?style=for-the-badge" />
 
 </div>
 
