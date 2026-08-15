@@ -144,7 +144,7 @@ Play Style:  Nocturnal (peak power after 22:30)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=github&hide_border=true&bg_color=bae6fd" width="92%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=default&hide_border=true&bg_color=ffffff&color=24292f&line=24292f&point=24292f" width="93%"/>
 </div>
 
 <br/>
