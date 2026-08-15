@@ -31,7 +31,6 @@
 
 <td>
 
-```yaml
 Name:        Vipul Minz
 Class:       Full-Stack Wizard / UI-UX Artificer
 Guild:       NIT Rourkela
