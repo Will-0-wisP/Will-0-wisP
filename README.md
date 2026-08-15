@@ -8,15 +8,8 @@
 
 </div>
 
-## 🎮 CHARACTER SELECT
-<table align="center">
-<tr>
-<td width="260" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=2000&color=FFD700&background=0D1117&center=true&vCenter=true&width=220&height=220&lines=%F0%9F%A7%99" alt="avatar" />
-`[ VIPUL_MINZ.exe ]`
-⭐⭐⭐⭐⭐
-</td>
-<td>
+## 🎮 CHARACTER SELECT <table align="center"> <tr> <td width="260" align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=2000&color=FFD700&background=0D1117&center=true&vCenter=true&width=220&height=220&lines=%F0%9F%A7%99" alt="avatar" /> **[ VIPUL_MINZ.exe ]** ⭐⭐⭐⭐⭐ </td> <td>
+yaml
 Name:        Vipul Minz
 Class:       Full-Stack Wizard / UI-UX Artificer
 Guild:       NIT Rourkela
@@ -24,14 +17,7 @@ Rank:        M.Tech Candidate
 Side Quest:  Freelance UI/UX Designer
 Origin:      Building the future, one line of code at a time.
 Play Style:  Nocturnal (peak power after 22:30)
-HP `☕☕☕☕☕☕☕☕░░` 80/100 — (coffee-dependent)
-MP `🔥🔥🔥🔥🔥🔥🔥🔥🔥░` 90/100 — (focus meter)
-LUCK `🍀🍀🍀🍀🍀░░░░░` 50/100 — (deploy on Friday odds)
-</td>
-</tr>
-</table>
-<br/>
-
+**HP** ☕☕☕☕☕☕☕☕░░ 80/100 — *(coffee-dependent)* **MP** 🔥🔥🔥🔥🔥🔥🔥🔥🔥░ 90/100 — *(focus meter)* **LUCK** 🍀🍀🍀🍀🍀░░░░░ 50/100 — *(deploy on Friday odds)* </td> </tr> </table> <br/>
 
 ## 🗡️ SKILL TREE
 
@@ -97,8 +83,16 @@ LUCK `🍀🍀🍀🍀🍀░░░░░` 50/100 — (deploy on Friday odds)
 ## 📊 STATS HUD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=light&hide_border=true" height="165"/>
+  <!-- Main Stats - using alternative working service -->
+  <img src="https://github-readme-stats.demolab.com/api?username=Will-0-wisP&show_icons=true&theme=light&hide_border=true" height="165"/>
+  
+  <!-- Streak Stats (working) -->
   <img src="https://streak-stats.demolab.com/?user=Will-0-wisP&theme=light&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <!-- Top Languages - using alternative working service -->
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Will-0-wisP&layout=compact&theme=light&hide_border=true" height="165"/>
 </div>
 
 ## 📈 ACTIVITY GRAPH
