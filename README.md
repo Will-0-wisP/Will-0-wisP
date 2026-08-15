@@ -135,16 +135,16 @@ Play Style:  Nocturnal (peak power after 22:30)
 ## 📊 STATS HUD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FF2E97&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Will-0-wisP&theme=radical&hide_border=true&background=0d1117&stroke=FFD700&ring=FF2E97&fire=FFD700&currStreakLabel=00F0FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=light&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Will-0-wisP&theme=light&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=light&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=react-dark&bg_color=0d1117&color=00F0FF&line=FF2E97&point=FFD700&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=github&hide_border=true" width="90%"/>
 </div>
 
 <br/>
