@@ -1,165 +1,135 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+DEVELOPER_PROFILE...;%3E+USER%3A+VIPUL_MINZ;%3E+ACCESS+GRANTED" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&color=FF2E97,00F0FF,39FF88,FFD700,B026FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SYSTEM+BOOT...;LOADING+DEVELOPER.exe;PLAYER+FOUND%3A+Vipul+Minz;PRESS+START" alt="Typing SVG" />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Will-0-wisP&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/MODE-ACTIVE-00ff41?style=for-the-badge&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=Will-0-wisP&label=SCORE&color=FF2E97&style=for-the-badge)
+![Level](https://img.shields.io/badge/LEVEL-21-00F0FF?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF88?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
-
-# > WHOAMI
+## 🎮 CHARACTER SELECT
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="220" align="center">
 
-<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Vipul+Minz" width="180" />
+<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Vipul" width="180"/>
 
-<br>
-
-**VIPUL_MINZ**
-
-<br>
-
-`FULL_STACK_DEVELOPER`
+<b>VIPUL_MINZ.exe</b><br>
+⭐⭐⭐⭐⭐
 
 </td>
 
 <td>
 
-```bash
-USER       : Vipul Minz
-ROLE       : Full Stack Developer
-EDUCATION  : M.Tech, NIT Rourkela
-DESIGN     : UI / UX Designer
-STATUS     : Building scalable products
-LOCATION   : India
-FOCUS      : Web Development, AI, UI Engineering
-```
+<b>Name:</b> Vipul Minz<br>
+<b>Class:</b> Full-Stack Wizard / UI-UX Artificer<br>
+<b>Guild:</b> NIT Rourkela<br>
+<b>Rank:</b> M.Tech Candidate<br>
+<b>Side Quest:</b> Freelance UI/UX Designer<br>
+<b>Origin:</b> Building the future, one line of code at a time.<br>
+<b>Play Style:</b> Nocturnal (peak power after 22:30)<br><br>
 
-```text
-React      █████████░ 92%
-JavaScript ████████░░ 85%
-Tailwind   ████████░░ 80%
-Node.js    ███████░░░ 75%
-Python     ██████░░░░ 65%
-Figma      █████████░ 90%
-```
+<b>HP</b> ☕☕☕☕☕☕☕☕░░ 80/100<br>
+<b>MP</b> 🔥🔥🔥🔥🔥🔥🔥🔥🔥░ 90/100<br>
+<b>LUCK</b> 🍀🍀🍀🍀🍀░░░░░ 50/100
 
 </td>
-
 </tr>
 </table>
+</div> 
 
-</div>
-
----
-
-# > TECH_STACK
+## 🗡️ SKILL TREE
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<img src="https://img.shields.io/badge/React-92%25-00F0FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-85%25-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-80%25-39FF88?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-75%25-39FF88?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-65%25-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-90%25-FF2E97?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-78%25-B026FF?style=for-the-badge" />
 
 </div>
 
----
-
-# > SYSTEM_STATUS
+## 🧰 INVENTORY
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Friendly-00ff41?style=for-the-badge&labelColor=000000)
-
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-00ff41?style=for-the-badge&labelColor=000000)
-
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-00ff41?style=for-the-badge&labelColor=000000)
-
-![Freelance](https://img.shields.io/badge/Freelance-Available-00ff41?style=for-the-badge&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
----
-
-# > CURRENT_MISSIONS
-
-```text
-[✓] Complete M.Tech Coursework
-[✓] Deliver Freelance Projects
-[ ] Open Source Component Library
-[ ] Reach 1000+ GitHub Contributions
-[ ] Build More Useful Products
-```
-
----
-
-# > GITHUB_METRICS
+## 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+![Achievement](https://img.shields.io/badge/🔥_100_Day_Streak-FFD700?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/🚀_Shipped_Production_Code-00F0FF?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/🎨_Pixel_Perfect_UI-FF2E97?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/🌙_Night_Owl-B026FF?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/☕_Caffeine_Immune-39FF88?style=for-the-badge&labelColor=0d1117)
 
-<img src="https://streak-stats.demolab.com?user=Will-0-wisP&theme=chartreuse-dark&hide_border=true" height="170"/>
+</div>
+
+## 📜 QUEST LOG
+
+✅ Complete M.Tech coursework — NIT Rourkela • ✅ Ship freelance UI/UX projects • 🚧 Open-source a component library • 🎯 Reach 1,000 GitHub contributions • 📚 Learn a new stack
+
+## 🐍 THE ACTUAL GAME: Snake Eats My Contributions
+
+<div align="center">
+
+![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake.svg)
+
+</div>
+
+## 🧊 3D CONTRIBUTION MAP
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
+
+## 📊 STATS HUD
+
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=Will-0-wisP" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Will-0-wisP" height="165"/>
+</div>
+
+## 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=default&hide_border=true&bg_color=ffffff&color=24292f&line=24292f&point=24292f" width="95%"/>
+
+</div>
+
+## 🌐 CONNECT / MULTIPLAYER
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39FF88)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vipulkminz@gmail.com)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
 
 </div>
-
----
-
-# > CONTRIBUTION_ACTIVITY
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/Will-0-wisP/Will-0-wisP/output/github-snake.svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=github-dark&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff"/>
-
-</div>
-
----
-
-# > NETWORK_ENDPOINTS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://your-portfolio.com)
-
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vipulkminz@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+SESSION_ACTIVE;%3E+SYSTEM_STATUS%3A+ONLINE;%3E+READY+FOR+NEXT+COMMIT" />
-
-</div>
-
