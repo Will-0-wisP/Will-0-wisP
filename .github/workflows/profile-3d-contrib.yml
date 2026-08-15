@@ -2,29 +2,24 @@ name: Generate 3D Contribution Graphs
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # Runs daily at 00:00 UTC
+    - cron: "0 0 * * *"        # Daily at 00:00 UTC
   workflow_dispatch:           # Manual trigger
 
 jobs:
   generate-3d:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # Required to commit the generated files
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graphs
-        uses: yoshi389111/github-profile-3d-contrib@master
+        uses: yoshi389111/github-profile-3d-contrib@latest
         with:
           github_user_name: ${{ github.repository_owner }}
           theme: night-rainbow
-          # Optional: generate multiple themes
-          # themes: |
-          #   night-rainbow
-          #   dark
-          #   summer
 
       - name: Commit and push changes
         run: |
