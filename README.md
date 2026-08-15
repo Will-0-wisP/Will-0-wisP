@@ -126,7 +126,7 @@ Play Style:  Nocturnal (peak power after 22:30)
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 </div>
 
