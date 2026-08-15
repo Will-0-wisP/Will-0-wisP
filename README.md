@@ -17,11 +17,10 @@
 
 <td width="220" align="center">
 
-<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Vipul+Minz" width="180" alt="Vipul Avatar"/>
-
+<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Vipul" width="180"/>
 <br>
 
-<b>VIPUL_MINZ.exe</b>
+<b>VIPUL_MINZ</b>
 
 <br>
 
