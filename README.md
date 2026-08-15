@@ -16,8 +16,6 @@
 
 **`[ VIPUL_MINZ.exe ]`** ⭐⭐⭐⭐⭐
 
-</div>
-
 ```yaml
 Name: Vipul Minz | Class: Full-Stack Wizard / UI-UX Artificer | Guild: NIT Rourkela | Rank: M.Tech Candidate | Side Quest: Freelance UI/UX Designer
 Origin: Building the future, one line of code at a time. | Play Style: Nocturnal (peak power after 22:30)
@@ -91,7 +89,7 @@ Origin: Building the future, one line of code at a time. | Play Style: Nocturnal
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=light&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Will-0-wisP&theme=light&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Will-0-wisP&theme=light&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=light&hide_border=true" height="165"/>
 
 </div>
