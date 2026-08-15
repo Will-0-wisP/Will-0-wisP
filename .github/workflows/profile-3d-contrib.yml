@@ -1,0 +1,38 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-3d:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node_modules_cache: npm
+
+      - name: Install 3D Contribution Generator
+        run: npm install -g github-profile-3d-contrib
+
+      - name: Generate 3D Contribution Graphs
+        run: |
+          github-profile-3d-contrib \
+            --user ${{ github.repository_owner }} \
+            --output-dir profile-3d-contrib \
+            --theme night-rainbow
+
+      - name: Commit changes to main branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3D contribution graphs [skip ci]" || true
+          git push origin main
