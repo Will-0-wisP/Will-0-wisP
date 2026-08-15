@@ -133,3 +133,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
 
 </div>
+
+# 🎮 Welcome to My GitHub Profile!
+
+I am playing a live game of **Tic-Tac-Toe** against the community and an AI right here on my profile. 
+
+### 🤖 Current Game Board
+
+| | | |
+| :---: | :---: | :---: |
+| [⬜](https://github.com) | [⬜](https://github.com) | [⬜](https://github.com) |
+| [⬜](https://github.com) | [⬜](https://github.com) | [⬜](https://github.com) |
+| [⬜](https://github.com) | [⬜](https://github.com) | [⬜](https://github.com) |
+
+### 🛠️ How to Play:
+1. Click on any of the **white squares (⬜)** above to make your move.
+2. It will open a pre-filled GitHub Issue page. Just click **"Submit new issue"**.
+3. The underlying GitHub Action bot will process your move, make its own counter-move using its **AI logic**, and update this board within a minute!
+
+---
