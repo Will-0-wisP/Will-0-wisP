@@ -1,7 +1,6 @@
-````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&color=FF2E97,00F0FF,39FF88,FFD700,B026FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%3E+SYSTEM+BOOT...;%3E+LOADING+DEVELOPER.exe;%3E+PLAYER+FOUND%3A+Vipul+Minz;%3E+PRESS+START" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&color=FF2E97,00F0FF,39FF88,FFD700,B026FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SYSTEM+BOOT...;LOADING+DEVELOPER.exe;PLAYER+FOUND%3A+Vipul+Minz;PRESS+START" alt="Typing SVG" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=Will-0-wisP&label=SCORE&color=FF2E97&style=for-the-badge)
 ![Level](https://img.shields.io/badge/LEVEL-21-00F0FF?style=for-the-badge&labelColor=0d1117)
@@ -118,7 +117,6 @@ Origin: Building the future, one line of code at a time. | Play Style: Nocturnal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=%3E+GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
 
 </div>
-````
