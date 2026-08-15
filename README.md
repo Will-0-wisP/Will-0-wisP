@@ -126,7 +126,7 @@ Play Style:  Nocturnal (peak power after 22:30)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Will-0-wisP/Will-0-wisP/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
