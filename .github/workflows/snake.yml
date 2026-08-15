@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:      # Manual trigger from Actions tab
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Contribution Grid
+        uses: Platane/svelte-chartjs-snake@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Create output branch if it doesn't exist
+        run: |
+          git fetch origin output || true
+          git checkout -b output || git checkout output
+
+      - name: Commit and push snake animation
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/
+          cp dist/github-contribution-grid-snake-dark.svg output/
+          git config user.name "github-actions[bot]"
+          git config user.user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "chore: update contribution snake [skip ci]" || true
+          git push origin output --force
