@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+DEVELOPER_PROFILE...;%3E+USER%3A+VIPUL_MINZ;%3E+ACCESS+GRANTED" alt="Typing SVG" />
@@ -162,4 +162,4 @@ Figma      █████████░ 90%
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+SESSION_ACTIVE;%3E+SYSTEM_STATUS%3A+ONLINE;%3E+READY+FOR+NEXT+COMMIT" />
 
 </div>
-````
+
