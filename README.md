@@ -43,12 +43,12 @@ Play Style:  Nocturnal (peak power after 22:30)
 HP ☕☕☕☕☕☕☕☕░░ 80/100 (coffee-dependent)
 MP 🔥🔥🔥🔥🔥🔥🔥🔥🔥░ 90/100 (focus meter)
 LUCK 🍀🍀🍀🍀🍀░░░░░ 50/100 (deploy on Friday odds)
-
+```
 </td>
 
 </tr> </table>
 
-</div> ```
+</div> 
 
 ## 🗡️ SKILL TREE
 
