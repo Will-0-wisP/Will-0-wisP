@@ -31,6 +31,7 @@
 
 <td>
 
+```yaml
 Name:        Vipul Minz
 Class:       Full-Stack Wizard / UI-UX Artificer
 Guild:       NIT Rourkela
@@ -47,7 +48,7 @@ LUCK 🍀🍀🍀🍀🍀░░░░░ 50/100 (deploy on Friday odds)
 
 </tr> </table>
 
-</div>
+</div> ```
 
 ## 🗡️ SKILL TREE
 
