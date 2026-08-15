@@ -4,7 +4,7 @@
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SCORE&color=FF2E97&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Will-0-wisP&label=SCORE&color=FF2E97&style=for-the-badge)
 ![Level](https://img.shields.io/badge/LEVEL-21-00F0FF?style=for-the-badge&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF88?style=for-the-badge&labelColor=0d1117)
 
@@ -135,16 +135,16 @@ Play Style:  Nocturnal (peak power after 22:30)
 ## 📊 STATS HUD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FF2E97&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=FFD700&ring=FF2E97&fire=FFD700&currStreakLabel=00F0FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FF2E97&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Will-0-wisP&theme=radical&hide_border=true&background=0d1117&stroke=FFD700&ring=FF2E97&fire=FFD700&currStreakLabel=00F0FF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=00F0FF&line=FF2E97&point=FFD700&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-0-wisP&theme=react-dark&bg_color=0d1117&color=00F0FF&line=FF2E97&point=FFD700&hide_border=true" width="90%"/>
 </div>
 
 <br/>
@@ -165,26 +165,3 @@ Play Style:  Nocturnal (peak power after 22:30)
 </div>
 
 ---
-
-<details>
-<summary><b>⚙️ Setup — how to make the animated pieces actually run</b></summary>
-
-<br/>
-
-1. **Replace every placeholder** in this file: `YOUR_GITHUB_USERNAME`, `YOUR_LINKEDIN`,
-   `YOUR_HANDLE`, and the email `mailto:` link.
-2. Create a repo with the **exact same name as your GitHub username** (this is what
-   GitHub renders on your profile page) and put this `README.md` at its root.
-3. Copy the two workflow files from `.github/workflows/` in this bundle into the
-   same path in that repo, then push. Each will run once automatically (and daily
-   after that via its cron schedule) and commit the generated SVGs:
-   - `snake.yml` → generates `github-contribution-grid-snake.svg` on an `output`
-     branch (the snake game image above points here).
-   - `profile-3d-contrib.yml` → generates the isometric 3D contribution SVGs
-     under `profile-3d-contrib/` on your `main` branch.
-4. Give the workflow permission to push: **Settings → Actions → General →
-   Workflow permissions → Read and write permissions**.
-5. Stats/streak/top-langs/activity-graph cards need no setup — they render live
-   from the username in the URL, no action required.
-
-</details>
