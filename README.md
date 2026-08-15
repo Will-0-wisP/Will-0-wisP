@@ -1,6 +1,3 @@
-# Compact GitHub README (All Original Content Preserved)
-
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&color=FF2E97,00F0FF,39FF88,FFD700,B026FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%3E+SYSTEM+BOOT...;%3E+LOADING+DEVELOPER.exe;%3E+PLAYER+FOUND%3A+Vipul+Minz;%3E+PRESS+START" alt="Typing SVG" />
@@ -175,4 +172,4 @@ Play Style:  Nocturnal (peak power after 22:30)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=%3E+GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
 
 </div>
-````
+
