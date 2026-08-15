@@ -1,36 +1,38 @@
-# This is a basic workflow to help you get started with Actions
+name: Generate 3D Contribution Graph
 
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: "0 0 * * *"   # Daily at midnight UTC
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate-3d:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node_modules_cache: npm
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Install 3D Contribution Generator
+        run: npm install -g github-profile-3d-contrib
+
+      - name: Generate 3D Contribution Graphs
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          github-profile-3d-contrib \
+            --user ${{ github.repository_owner }} \
+            --output-dir profile-3d-contrib \
+            --theme night-rainbow
+
+      - name: Commit changes to main branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3D contribution graphs [skip ci]" || true
+          git push origin main
