@@ -117,7 +117,7 @@ Play Style:  Nocturnal (peak power after 22:30)
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake.svg)
 </div>
 
 <br/>
