@@ -156,12 +156,12 @@ Play Style:  Nocturnal (peak power after 22:30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39FF88)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vipulkminz@gmail.com)
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=39FF88&background=00000000&center=true&vCenter=true&width=500&lines=%3E+GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=2ea44f&background=ffffff&center=true&vCenter=true&width=500&lines=%3E+GAME+OVER%3F+No+-+CONTINUE...;%3E+_" alt="cursor blink"/>
 </div>
 
 ---
