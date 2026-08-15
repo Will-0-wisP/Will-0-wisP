@@ -114,9 +114,11 @@ Play Style:  Nocturnal (peak power after 22:30)
 
 ## 🐍 THE ACTUAL GAME: Snake Eats My Contributions
 
+<!-- Snake Animation -->
 <div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 <br/>
 
