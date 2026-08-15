@@ -98,10 +98,7 @@ LUCK `🍀🍀🍀🍀🍀░░░░░` 50/100 — (deploy on Friday odds)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Will-0-wisP&show_icons=true&theme=light&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-0-wisP&layout=compact&theme=light&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Will-0-wisP&theme=light&hide_border=true" height="165"/>
 </div>
 
 ## 📈 ACTIVITY GRAPH
