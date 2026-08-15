@@ -11,42 +11,34 @@
 ## 🎮 CHARACTER SELECT
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="220" align="center">
 
-<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Vipul" width="180"/>
-<br>
+<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Vipul" width="180"/>
 
-<b>VIPUL_MINZ</b>
-
-<br>
-
+<b>VIPUL_MINZ.exe</b><br>
 ⭐⭐⭐⭐⭐
 
 </td>
 
 <td>
 
-```yaml
-Name:        Vipul Minz
-Class:       Full-Stack Wizard / UI-UX Artificer
-Guild:       NIT Rourkela
-Rank:        M.Tech Candidate
-Side Quest:  Freelance UI/UX Designer
-Origin:      Building the future, one line of code at a time.
-Play Style:  Nocturnal (peak power after 22:30)
+<b>Name:</b> Vipul Minz<br>
+<b>Class:</b> Full-Stack Wizard / UI-UX Artificer<br>
+<b>Guild:</b> NIT Rourkela<br>
+<b>Rank:</b> M.Tech Candidate<br>
+<b>Side Quest:</b> Freelance UI/UX Designer<br>
+<b>Origin:</b> Building the future, one line of code at a time.<br>
+<b>Play Style:</b> Nocturnal (peak power after 22:30)<br><br>
 
-HP ☕☕☕☕☕☕☕☕░░ 80/100 (coffee-dependent)
-MP 🔥🔥🔥🔥🔥🔥🔥🔥🔥░ 90/100 (focus meter)
-LUCK 🍀🍀🍀🍀🍀░░░░░ 50/100 (deploy on Friday odds)
-```
+<b>HP</b> ☕☕☕☕☕☕☕☕░░ 80/100<br>
+<b>MP</b> 🔥🔥🔥🔥🔥🔥🔥🔥🔥░ 90/100<br>
+<b>LUCK</b> 🍀🍀🍀🍀🍀░░░░░ 50/100
+
 </td>
-
-</tr> </table>
-
+</tr>
+</table>
 </div> 
 
 ## 🗡️ SKILL TREE
